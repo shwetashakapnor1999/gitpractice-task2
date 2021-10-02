@@ -23,9 +23,5 @@ function binarySearch(sortedArray, key) {
 var sortedArray = [1, 2, 3, 4, 5, 7, 8, 9];
 console.log(binarySearch(sortedArray, 1));
 console.log(binarySearch(sortedArray, 5));
-<<<<<<< HEAD
 console.log(binarySearch(sortedArray, 3));
-||||||| parent of cbce498 (feat: Added changes in binarysearch by shweta)
-=======
 console.log(binarySearch(sortedArray, 2));
->>>>>>> cbce498 (feat: Added changes in binarysearch by shweta)
