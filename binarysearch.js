@@ -23,3 +23,4 @@ function binarySearch(sortedArray, key) {
 var sortedArray = [1, 2, 3, 4, 5, 7, 8, 9];
 console.log(binarySearch(sortedArray, 1));
 console.log(binarySearch(sortedArray, 5));
+console.log(binarySearch(sortedArray, 3));
